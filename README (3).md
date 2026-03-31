@@ -3,9 +3,9 @@ Digital Literacy Project showcasing infographic design, professional portfolio s
 # 📚 Digital Literacy Project
 
 ## 👤 Student Details
-- Name: UDAY TYAGI
-- Registration Number: 25BCG10015
-- Branch: B.Tech CSE (GAMING TECHNOLOGY) 
+- Name: SANGINI SINHA
+- Registration Number: 25BAI10106
+- Branch: B.Tech CSE (AI and ML) 
 
 ---
 
